@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1.center{
+  text-align: center;
+}
+figcaption.center{
+  text-align: center;
+  font-size: small;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navbar a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+.navbar {
+  background-color: #CCCCCC;
+  overflow: hidden;
+  width: 700px;
+  margin: auto;
+  
+  
+}
+
+div{
+  text-align: center;
+  background-color: red;
+  float: left;
+  padding: auto;
+  margin: auto;
+  /* overflow: hidden; */
+  width: 25%;
+}
+
+.bodytext{
+text-align: center;
+margin: auto;
+width: 800px; 
+}
